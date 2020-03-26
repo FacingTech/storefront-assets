@@ -1,2 +1,0 @@
-# storefront-assets
-storefront assets
