@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "p1000001",
     "name": "武田２型糖尿病",
     "enName": "",
     "cnName": "",
@@ -8,7 +8,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "products/p1000001.png",
     "desc": "武田２型糖尿病治疗药100mg",
     "longDesc": "",
     "friendlyUrl": "",
@@ -18,7 +18,7 @@
     "quantity": 0
   },
   {
-    "id": 2,
+    "id": "p1000002",
     "name": "帝人痛风药",
     "enName": "",
     "cnName": "",
@@ -26,7 +26,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "products/p1000002.png",
     "desc": "帝人痛风药フェブリク",
     "longDesc": "",
     "friendlyUrl": "",
@@ -36,7 +36,7 @@
     "quantity": 0
   },
   {
-    "id": 3,
+    "id": "p1000003",
     "name": "武田幽门螺杆菌400型",
     "enName": "",
     "cnName": "",
@@ -44,7 +44,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "products/p1000003.png",
     "desc": "武田幽门螺杆菌除菌ボノサップパック（400型）",
     "longDesc": "",
     "friendlyUrl": "",
@@ -54,7 +54,7 @@
     "quantity": 0
   },
   {
-    "id": 4,
+    "id": "p1000004",
     "name": " 武田幽门螺杆菌800型",
     "enName": "",
     "cnName": "",
@@ -62,7 +62,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "p1000004.png",
     "desc": " 武田幽门螺杆菌除菌ボノサップパック（800型）",
     "longDesc": "",
     "friendlyUrl": "",
@@ -72,7 +72,7 @@
     "quantity": 0
   },
   {
-    "id": 5,
+    "id": "p1000005",
     "name": "心绞痛高血压",
     "enName": "",
     "cnName": "",
@@ -80,7 +80,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "products/p1000005.png",
     "desc": "东和药品心绞痛高血压",
     "longDesc": "",
     "friendlyUrl": "",
@@ -90,7 +90,7 @@
     "quantity": 0
   },
   {
-    "id": 6,
+    "id": "p1000006",
     "name": "护肝丸",
     "enName": "",
     "cnName": "",
@@ -98,7 +98,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "products/p1000006.png",
     "desc": "护肝丸保健品",
     "longDesc": "",
     "friendlyUrl": "",
@@ -108,7 +108,7 @@
     "quantity": 0
   },
   {
-    "id": 7,
+    "id": "p1000007",
     "name": "肠胃炎、胃、肠溃疡",
     "enName": "",
     "cnName": "",
@@ -116,7 +116,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "products/p1000007.png",
     "desc": "肠胃炎及胃十二指肠溃疡治疗药",
     "longDesc": "",
     "friendlyUrl": "",
@@ -126,7 +126,7 @@
     "quantity": 0
   },
   {
-    "id": 8,
+    "id": "p1000008",
     "name": "防风通圣散",
     "enName": "",
     "cnName": "",
@@ -134,7 +134,7 @@
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "",
+    "image": "products/p1000008.png",
     "desc": "防风通圣散（减肥功效）",
     "longDesc": "",
     "friendlyUrl": "",
