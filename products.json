@@ -5,6 +5,7 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "武田",
     "tag": "",
     "country": "",
     "catagroy": "",
@@ -13,9 +14,10 @@
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "100mg*20粒",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
   },
   {
     "id": "p1000002",
@@ -23,6 +25,7 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "帝人",
     "tag": "",
     "country": "",
     "catagroy": "",
@@ -31,9 +34,10 @@
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "20mg*140錠",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
   },
   {
     "id": "p1000003",
@@ -41,6 +45,7 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "武田",
     "tag": "",
     "country": "",
     "catagroy": "",
@@ -49,9 +54,10 @@
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "1疗程",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
   },
   {
     "id": "p1000004",
@@ -59,17 +65,19 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "武田",
     "tag": "",
     "country": "",
     "catagroy": "",
-    "image": "p1000004.png",
+    "image": "products/p1000004.png",
     "desc": " 武田幽门螺杆菌除菌ボノサップパック（800型）",
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "1疗程",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
   },
   {
     "id": "p1000005",
@@ -77,6 +85,7 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "东和药品",
     "tag": "",
     "country": "",
     "catagroy": "",
@@ -85,9 +94,10 @@
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "5mg*100锭",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
   },
   {
     "id": "p1000006",
@@ -95,6 +105,7 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "",
     "tag": "",
     "country": "",
     "catagroy": "",
@@ -103,9 +114,10 @@
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "20mg*100锭",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
   },
   {
     "id": "p1000007",
@@ -113,6 +125,7 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "",
     "tag": "",
     "country": "",
     "catagroy": "",
@@ -121,9 +134,10 @@
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "20mg*100锭",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
   },
   {
     "id": "p1000008",
@@ -131,6 +145,7 @@
     "enName": "",
     "cnName": "",
     "jpName": "",
+    "company": "",
     "tag": "",
     "country": "",
     "catagroy": "",
@@ -139,8 +154,29 @@
     "longDesc": "",
     "friendlyUrl": "",
     "price": "100.00",
-    "spec": "100.00",
+    "spec": "",
     "discount": "100",
-    "quantity": 0
+    "quantity": 0,
+    "order": 10
+  },
+  {
+    "id": "p1000009",
+    "name": "阿来替尼安圣莎",
+    "enName": "Alecensa, Alectinib",
+    "cnName": "阿来替尼安圣莎",
+    "jpName": "",
+    "company": "罗氏 Roche / 基因泰克（Genentech）",
+    "tag": "ALK, Lung Cancer",
+    "country": "中国",
+    "catagroy": "Cancer",
+    "image": "products/p1000009.jpeg",
+    "desc": "Alecensa，英文名 Alectinib，也叫艾乐替尼，用于ALK阳性基因突变非小细胞癌患者",
+    "longDesc": "罗氏 Roche / 基因泰克（Genentech），用于治疗晚期ALK阳性且使用克唑替尼治疗后恶化或不对其耐受的非小细胞癌患者",
+    "friendlyUrl": "",
+    "price": "100.00",
+    "spec": "240mg*224粒",
+    "discount": "100",
+    "quantity": 0,
+    "order": 1
   }
 ]
